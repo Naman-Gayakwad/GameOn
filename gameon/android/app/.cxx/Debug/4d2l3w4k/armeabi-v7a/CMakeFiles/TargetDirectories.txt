@@ -1,0 +1,2 @@
+C:/D drive/code/code/GameOn/gameon/android/app/.cxx/Debug/4d2l3w4k/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/D drive/code/code/GameOn/gameon/android/app/.cxx/Debug/4d2l3w4k/armeabi-v7a/CMakeFiles/rebuild_cache.dir

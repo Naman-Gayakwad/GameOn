@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1014074674834-q9d243pmkjt95949q2hh190pkr581llo.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1014074674834-q9d243pmkjt95949q2hh190pkr581llo</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBkJ45Oc83jYRzCrAaQG_RL5Jnb43dE_mM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1014074674834</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.gameon</string>
+	<key>PROJECT_ID</key>
+	<string>gameon-d02e1</string>
+	<key>STORAGE_BUCKET</key>
+	<string>gameon-d02e1.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1014074674834:ios:b2d64946881d3774c0a04b</string>
+</dict>
+</plist>

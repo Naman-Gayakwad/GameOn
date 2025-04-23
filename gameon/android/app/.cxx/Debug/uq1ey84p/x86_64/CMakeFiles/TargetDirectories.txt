@@ -1,0 +1,2 @@
+C:/D drive/code/code/GameOn/gameon/android/app/.cxx/Debug/uq1ey84p/x86_64/CMakeFiles/edit_cache.dir
+C:/D drive/code/code/GameOn/gameon/android/app/.cxx/Debug/uq1ey84p/x86_64/CMakeFiles/rebuild_cache.dir
